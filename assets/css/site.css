@@ -39,12 +39,12 @@ header h1 .minor{color:#999; font-weight:normal;}
 header .additional{font-size:90%; color:#ccc;}
 
 aside{background:#eee; font-size:75%;}
-aside h2{margin:1em 0;}
+aside h1{margin:1em 0;}
 aside .feed-link{margin-left:0.5em; color: #d81;}
 aside nav ul{list-style:none; line-height:1.5em;}
 aside nav li:before{content:"> "; font:normal 80%/1em "宋体"; margin:0 .3em; color: #999;}
 aside .block{max-width:300px; margin:1.5em 0; line-height:1.5em;}
-aside .block h3{margin:.5em 0;}
+aside .block h2{margin:.5em 0;}
 aside .block a{margin:0;}
 aside .block-about p{margin:0.5em 0; color:#999;}
 aside .block-about figure img{border-radius:2px;}
