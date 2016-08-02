@@ -1,6 +1,6 @@
 *{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
 html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,p,form,dl,dt,dd,figure{margin:0; padding:0; border:0;}
-body{line-height:1.6em; font-family:Helvetica, Arial, sans-serif; color:#555;}
+body{line-height:1.6em; font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif; color:#555;}
 a{margin:0 2px; color:#06c; text-decoration:none;}
 a:hover{text-decoration:underline;}
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{margin:0;}
