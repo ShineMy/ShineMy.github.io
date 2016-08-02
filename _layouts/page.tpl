@@ -34,43 +34,22 @@
 		</ul>
 	</nav>
 
-	<form action="/search/" class="block block-search">
-		<h3>Search</h3>
-		<p><input type="search" name="q" placeholder="Search" /></p>
-	</form>
-
 	<div class="block block-about">
-		<h3>About</h3>
+		<h3>关于我</h3>
 		<figure>
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>Write something about yourself.</p>
+		<p>致力于Node全栈，虽然路还很远。</p>
 	</div>
 
-	<div class="block block-license">
-		<h3>Copyright</h3>
-		<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/cn/" target="_blank" class="hide-target-icon" title="Copyright declaration of site content"><img alt="知识共享许可协议" src="http://i.creativecommons.org/l/by-nc-nd/2.5/cn/88x31.png" /></a></p>
-	</div>
-
-	{% if site.meta.author.github %}
-	<div class="block block-fork">
-		<a href="https://github.com/{{ site.meta.author.github }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub"></a>
-	</div>
-	{% endif %}
-
-	<div class="block block-thank">
-		<h3>Powered by</h3>
-		<p>
-			<a href="http://disqus.com/" target="_blank">Disqus</a>,
-			<a href="http://elfjs.com/" target="_blank">elf+js</a>,
-			<a href="https://github.com/" target="_blank">GitHub</a>,
-			<a href="http://www.google.com/cse/" target="_blank">Google Custom Search</a>,
-			<a href="http://en.gravatar.com/" target="_blank">Gravatar</a>,
-			<a href="http://softwaremaniacs.org/soft/highlight/en/">HighlightJS</a>,
-			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
-			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
-		</p>
+	<div class="block block-contact">
+		<h3>联系我</h3>
+		<ul>
+			<li><span>电话</span> 15244659901</li>
+			<li><span>邮箱</span> tmx_web@163.com</li>
+			<li><span>github</span> <a href="ShineMy.github">ShineMy.github</a></li>
+		</ul>
 	</div>
 </aside>
 
