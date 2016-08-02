@@ -2,7 +2,6 @@
 layout:     keynote
 title:      "ESLint 从安装到使用"
 subtitle:   "ESLint : From install to use"
-iframe:     "http://huangxuan.me/ESLint/"
 date:       2016-08-02
 author:     "Tmx"
 tags:
