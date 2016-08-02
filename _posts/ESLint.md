@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESLint 从安装到使用
-category: thinking
+category: another
 ---
 
 # ESLint
