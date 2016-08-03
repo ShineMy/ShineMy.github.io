@@ -1,5 +1,5 @@
 ---
-layout:     keynote
+layout:     post
 title:      "ESLint 从安装到使用"
 subtitle:   "ESLint : From install to use"
 date:       2016-08-02
