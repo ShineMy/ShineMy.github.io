@@ -16,7 +16,7 @@ tags:
 
 首先，说一下livereload是什么：livereload这款软件的作用是在你更新代码并保存时，浏览器中对应的页面会自动刷新。以防止出现下图情况：
 
-![](img/livereload-1.png)
+![](/img/livereload-1.png)
 
 它可以扩展到浏览器中，使用起来很方便。
 
@@ -32,7 +32,7 @@ tags:
 
 2.开启Apache服务器（勾选前面的方框变成"√"），记住你的端口号（Port(s)下面的数字）。最终如下图：
 
-![](img/livereload-2.png)
+![](/img/livereload-2.png)
 
 #### 第二部分：livereload的用法
 
@@ -48,6 +48,6 @@ tags:
 
 最终如下图：
 
-![](img/livereload-3.png)
+![](/img/livereload-3.png)
 
 **原理**：livereload是基于socket通信的，启用时livereload会开启一个服务器，和你项目所在的服务器之间进行通信，当你的代码发生变化时，livereload将监听到的信息发送给浏览器，使浏览器页面刷新。
