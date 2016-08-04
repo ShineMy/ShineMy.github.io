@@ -2,12 +2,13 @@
 layout:     post
 title:      "ESLint 从安装到使用"
 subtitle:   "ESLint : From install to use"
-date:       2016-08-02
+date:       2016-07-29
 author:     "Tmx"
 header-img:    img/post-bg-os-metro.jpg
 tags:
     - 前端开发
     - JavaScript
+    - 工具
 ---
 
 

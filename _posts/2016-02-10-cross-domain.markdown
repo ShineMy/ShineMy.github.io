@@ -8,6 +8,7 @@ header-img:    img/post-bg-unix-linux.jpg
 tags:
     - 前端开发
     - JavaScript
+    - ajax
 ---
 
 
