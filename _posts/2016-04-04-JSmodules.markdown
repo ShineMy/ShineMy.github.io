@@ -47,7 +47,7 @@ tags:
 
     math._count = 5;
 
-立即执行函数写法
+**立即执行函数写法**
 
     var math = (function() {
       var _count = 0;
@@ -167,7 +167,7 @@ factory
 
 之后再用加载器加载就可以了。
 
-define
+**CMD**
 
 与AMD规范不同的是CMD规范中不使用id和deps参数，只保留factory。其中：
 1.factory接收对象/字符串时，表明模块的接口就是对象/字符串。
