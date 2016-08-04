@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: tmx_web@163.com
 description: "这里是汤明兴的个人博客。"
 keyword: "汤明兴, tmx, 博客, 个人网站, 互联网, 前端, Tmx"
-url: "http://tangmingxing.com"              # your host, for absolute URL
+# url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
